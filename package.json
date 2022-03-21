@@ -1,0 +1,19 @@
+{
+  "name": "datasub-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd ./client && npm run start",
+    "server": "cd ./server && npm run start:dev",
+    "i-client": "cd ./client && npm i",
+    "i-server": "cd ./server && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nick775/datasub-test"
+  },
+  "author": "Nick775",
+  "license": "ISC",
+  "homepage": "https://github.com/nick775/datasub-test"
+}

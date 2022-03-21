@@ -1,0 +1,21 @@
+.form-wrapper {
+    padding: 90px 50px;
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    background-color: #0d6e5e;
+    border-radius: 20px;
+  }
+  
+  .form {
+    font-weight: bold;
+  
+    label {
+      font-weight: bold;
+    }
+  
+    &__title {
+      text-align: center;
+    }
+  }
+  
